@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ays:home|Door43 (ays)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ays|d43-ays repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ays/archive/master.zip|d43-ays.zip]]
+
+**Recent Changes**
+{{changes>ns = ays}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ays|Ethnologue data]]
+
